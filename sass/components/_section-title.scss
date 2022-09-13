@@ -1,0 +1,14 @@
+.section-title {
+
+    font-size: 38px;
+    line-height: 1.26;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: $main-color;
+
+    &--light {
+        color: $main-color-light;
+    }
+}

@@ -1,0 +1,115 @@
+.hero {
+    background-image: url(../../images/hero/uber_bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-color: black;
+    max-width: 1920px;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 800px;
+}
+
+.hero__upper {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.hero-upper__container {
+    display: flex;
+
+}
+
+.logo-wrapper {
+    display: inline-block;
+    margin-left: 150px;
+}
+
+.logo-img {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.logo-link {
+    display: inline-flex;
+    align-items: center;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.33;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+
+    color: #FFFFFF;
+}
+
+.logo-subtext {
+    font-weight: 100;
+    font-size: 16px;
+    line-height: 1.2;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.tel-wrapper {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: 20px;
+}
+
+.tel-text {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.17;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+.tel-link {
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+
+
+.main-title {
+    margin-top: 50px;
+    font-weight: 900;
+    font-size: 56px;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+
+.hero-text-wrapper {
+    margin-top: 20px;
+    margin-bottom: 120px;
+    width: 985px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.hero-text {
+    font-size: 18px;
+    line-height: 1.33;
+
+    color: #FFFFFF;
+}
+
+.hero-text:first-child {
+    margin-bottom: 20px;
+}
+
+.hero-btn {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    height: 70px;
+}

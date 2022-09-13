@@ -1,0 +1,22 @@
+.btn {
+    cursor: pointer;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.2;
+    padding: 12px 36px;
+
+
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.21);
+
+    background: linear-gradient(0deg, #1EACC7 0%, #4CE2FF 100%);
+    box-shadow: inset 0px -3px 0px rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+}
